@@ -48,7 +48,7 @@ LOka.user.setUsername("Hacked By KzO
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked By - KzO ,$`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked By KzO`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -63,7 +63,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked By - KzO ,$`)
+             m.setName(`Hacked By KzO`)
 })
 }
 });
