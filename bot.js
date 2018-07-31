@@ -40,7 +40,7 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/468507316082180107/4
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked By - KzO ,$
+LOka.user.setUsername("Hacked By KzO
 
 ")
  
